@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DwightRitam
+- 👋 Hi, I’m Ritam,Ritam santra
 - 👀 I’m interested in ... Web development
 - 🌱 I’m currently learning ... JavaScript and the frameworks
 - 💞️ I’m looking to collaborate on ... Front end development
