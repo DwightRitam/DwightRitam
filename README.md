@@ -1,5 +1,6 @@
 # 💫 About Me:
- Hi, I’m Ritam,Ritam santra<br>👀 I’m interested in ...Full Stack Web development,Android Developemnt<br>🌱 I’m currently learning ... Next js and sanity.io<br>💞️ I’m looking to collaborate on ... rEal world Project<br>📫 How to reach me ... This is my mail id- ritamsantra2003@gmail.com
+ Hi, I’m Ritam,Ritam santra<br>👀 I’m interested in ...Full Stack Web development,Android Developemnt<br>🌱 I’m currently learning ... Next js and sanity.io<br>💞️ I’m looking to collaborate on ... rEal world Project<br>📫 How to reach me ... This is my mail id- ritamsantra2003@gmail.com && portfolio:- https://ritamsantrasportfolio.vercel.app/
+ 
 
 
 ## 🌐 Socials:
